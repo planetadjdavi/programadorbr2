@@ -1,0 +1,23 @@
+
+/* rgb é o acrônimo para r=red , g=green, b=blue */
+/* rgba é quando o a representa a transparência */
+/* Existem extensões que definem os números rgb como a color Picker */
+
+/* #70e5ae  onde r=70 , g=e5, b=ae */
+
+#principal { 
+
+    color: red;
+
+}
+
+
+#título {
+
+color:#70e5ae;
+
+}
+
+.texto_verde {
+    color:green;
+} 
