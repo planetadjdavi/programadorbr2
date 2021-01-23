@@ -1,4 +1,5 @@
 
+
 /* rgb é o acrônimo para r=red , g=green, b=blue */
 /* rgba é quando o a representa a transparência */
 /* Existem extensões que definem os números rgb como a color Picker */
@@ -11,7 +12,29 @@
 
 }
 
+p {
 
+    color: blue;
+
+
+
+
+}
+
+
+/*
+#paragrafos {
+
+    background: red;
+}
+
+
+.subDiv {
+
+    background: yellow;
+}
+
+*/
 #título {
 
 color:#70e5ae;
@@ -20,4 +43,33 @@ color:#70e5ae;
 
 .texto_verde {
     color:green;
-} 
+}
+
+
+#base {
+
+    
+    background: red;
+    height: 10px;
+
+}
+
+/*Qaundo colocamos o margin: 0 px,%, cm todos os espaçamentos
+externos ficarão com a distância 0 entre si
+
+mas podemos colocar em diferentes direções como o margin-top,left,rigth..
+
+o mesmo princípoo se aplica ao padding
+*/
+
+#container {
+    padding: 10px;
+    margin:0px;
+    background-color: blue;
+    color: white;
+    
+    
+
+
+
+}
